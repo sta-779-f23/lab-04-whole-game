@@ -1,6 +1,6 @@
 ---
 title: "Lab 04 - Whole Game"
-output: github_document
+format: gfm
 author: "Lucy D'Agostino McGowan"
 date: '2022-03-29'
 ---
